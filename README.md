@@ -5,15 +5,15 @@ This is the official repository for the Amaretto dataset in collaboration with P
 To cite the Amaretto dataset, please use the following BibTeX and the DOI: `TBD`
 
 ```
-@article{ReCAN2020, 
-  title     = {Amaretto: An Active Learning Framework for Money Laundering Detection},
-  author    = {Labanca, Danilo and Primerano, Luca and Markland-Montgomery, Marcus and Polino, Mario and Carminati, Michele and Zanero, Stefano}, 
-  year      = {2022}, 
-  volume    = {TBD},
-  pages     = {TBD},
-  journal   = {IEEE Access},
-  doi       = {TBD},
-} 
+@ARTICLE{9758694,  
+author={Labanca, Danilo and Primerano, Luca and Markland-Montgomery, Marcus and Polino, Mario and Carminati, Michele and Zanero, Stefano},  
+journal={IEEE Access},   
+title={Amaretto: An Active Learning Framework for Money Laundering Detection},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/ACCESS.2022.3167699}}
 ```
 ## Authors
 - Danilo Labanca (danilo [dot] labanca [at] mail  [at] polimi [dot] it) <sup>P</sup>
