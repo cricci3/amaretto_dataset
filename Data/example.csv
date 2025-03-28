@@ -1,0 +1,18 @@
+Transaction ID,Originator,Originator_ID,EntryDate,InputOutput,Market,Product ISIN,Product Type,Product Class,Normalized Amount,Currency,Anomaly
+I9Q3S5YYLCQX,Client_087,_XID,2019-01-01 17:55:33,Sell,Market2,ISN-X01-LRBXBXN,FutureCommodity,Trade,10317357.93,Currency1,0
+VFZ6INAXVYJV,Client_019,_XID,2019-01-01 18:52:34,Sell,Market1,ISN-X01-856Z8OC,FX,Trade,31042.04,Currency2,0
+HXOA8DNPX1OE,Client_385,_XID,2019-01-01 15:21:09,Sell,Market1,ISN-X01-5CW2HUF,SimpleTransfer,Trade,35910.53,Currency1,0
+O9W5IR932XT1,Client_276,_XID,2019-01-01 20:02:36,Sell,Market1,ISN-X01-AQ848H7,FutureEquity,Trade,79630.92,Currency2,0
+84KF31TPK1LU,Client_049,_XID,2019-01-01 09:06:58,Buy,Market1,ISN-X01-7JWB2C7,FX,Trade,434370.69,Currency1,0
+A6EAD26IK49P,Client_010,_XID,2019-01-01 09:07:06,Buy,Market4,ISN-X01-U9SBVA7,FX,Trade,431.11,Currency2,0
+GR4T16G3CJFR,Client_043,_XID,2019-01-01 18:51:21,Sell,Market1,ISN-X01-XLEB16J,FX,Trade,441.55,Currency1,0
+5PVIQLPTQB9O,Client_033,_XID,2019-01-01 14:12:56,Sell,Market1,ISN-X01-6B2N5M3,FutureOptionEquityIndex,Trade,65399.66,Currency2,0
+EVQW6NEMUSRK,Client_269,_XID,2019-01-01 20:26:17,Buy,Market1,ISN-X01-UUGSZWQ,FXForward,Trade,370662.13,Currency1,0
+MC0HQPX4Z4SZ,Client_034,_XID,2019-01-01 14:21:59,Sell,Market1,ISN-X01-QNY2DAD,FutureBond,ADR Conversion,526.67,Currency1,0
+BR65NBICRAK0,Client_018,_XID,2019-01-01 14:25:57,Buy,Market1,ISN-X01-E2GJOWT,FutureOptionEquityIndex,"Cash in / out (withdrawal), Security in / out",2780.3,Currency1,0
+MACMHGPH25C4,Client_105,_XID,2019-01-01 14:13:11,Sell,Market1,ISN-X01-BT5L4S7,FutureCommodity,Trade,25759.92,Currency1,0
+GV8FRNIHTKGO,Client_047,_XID,2019-01-01 12:19:50,Buy,Market1,ISN-X01-Z7IBE5W,ADR,Trade,23933.08,Currency1,0
+5KT3TJTE69QK,Client_037,_XID,2019-01-01 15:06:32,Sell,Market1,ISN-X01-5EQ7FPT,SimpleTransfer,Trade,54827.14,Currency2,0
+VZMNCX5SKTK6,Client_050,_XID,2019-01-01 20:40:15,Buy,Market4,ISN-X01-YKRQSGN,FutureCommodity,Trade,76958.53,Currency1,0
+8HIRA5S3IWVL,Client_388,_XID,2019-01-01 07:42:04,Sell,Market2,ISN-X01-TL1S1VZ,FutureEquityIndex,Trade,69013.31,Currency2,0
+Z5R74YY9AJUY,Client_288,_XID,2019-01-01 14:54:50,Buy,Market1,ISN-X01-40D11CC,FX,Trade,41529.62,Currency1,0
